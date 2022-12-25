@@ -1,0 +1,4 @@
+PORT = XXXX
+NODE_ENV = production
+MONGO_URI = XXXX
+JWT_SECRET = XXXX
